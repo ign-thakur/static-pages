@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>KartmaX Checkout — Privacy Policy</title>
+  <style>
+    body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; color:#111; line-height:1.6; margin:0; padding:0; background:#f7fafc; }
+    .container{ max-width:900px; margin:40px auto; background:#fff; border-radius:10px; padding:32px; box-shadow:0 6px 24px rgba(12,20,30,0.08); }
+    h1,h2{ color:#0b4; margin-top:0; }
+    h1{ font-size:26px; color:#0b3b8f; }
+    h2{ font-size:18px; margin-top:20px; color:#0b3b8f; }
+    p{ margin:10px 0; }
+    ul{ margin:8px 0 16px 20px; }
+    .muted{ color:#666; font-size:14px; }
+    footer{ margin-top:28px; font-size:13px; color:#666; }
+    a{ color:#0b3b8f; text-decoration:none; }
+    .note{ background:#f1f8ff; padding:10px 12px; border-radius:8px; margin-top:12px; color:#0b3b8f; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Privacy Policy — KartmaX Checkout</h1>
+    <p class="muted">Last updated: 13 November 2025</p>
+
+    <p>This Privacy Policy explains how <strong>KartmaX</strong> ("we", "us", "our") collects, uses, discloses, and protects personal information when you use the KartmaX Checkout integration and related services (the "Services"). By using the Services you consent to the data practices described in this policy.</p>
+
+    <h2>1. Scope & Definitions</h2>
+    <p><strong>Services:</strong> KartmaX Checkout — a payments/checkout orchestration product used by merchants to accept payments online.</p>
+    <p><strong>Personal Data:</strong> Any information that identifies or can reasonably identify an individual (e.g., name, email, phone, payment instrument metadata).</p>
+
+    <h2>2. What Information We Collect</h2>
+    <ul>
+      <li><strong>Customer information:</strong> name, email, phone number, shipping & billing address (provided by end customers during checkout).</li>
+      <li><strong>Order & transactional data:</strong> order id, items purchased, amounts, taxes, discounts, applied coupons, order status.</li>
+      <li><strong>Payment metadata:</strong> payment method type, masked card/UPI identifiers, payment gateway order ids and statuses (we do not store full card numbers or CVV).</li>
+      <li><strong>Device & usage data:</strong> IP address, browser user agent, device type, session logs, errors, and click/interaction telemetry used for analytics and fraud detection.</li>
+      <li><strong>Vendor-provided data:</strong> information we receive from third parties (payment processors, fraud vendors, identity verification services).</li>
+    </ul>
+
+    <h2>3. How We Use Your Information</h2>
+    <ul>
+      <li>Process and fulfill payments and orders on behalf of merchants.</li>
+      <li>Detect, prevent, and respond to fraud and abuse.</li>
+      <li>Provide customer support and dispute resolution.</li>
+      <li>Operate, maintain, and improve the Services (analytics, product improvements, debugging).</li>
+      <li>Comply with legal obligations (tax, anti-money-laundering, court orders).</li>
+      <li>Send transactional messages (receipts, status updates) and, where permitted, marketing communications.</li>
+    </ul>
+
+    <h2>4. Legal Bases for Processing (where applicable)</h2>
+    <p>Where required by applicable law, we rely on: (i) performance of a contract, (ii) legitimate interests (service operation, fraud prevention, product improvement), (iii) compliance with legal obligations, and (iv) consent for marketing communications.</p>
+
+    <h2>5. Sharing & Third Parties</h2>
+    <p>We partner with third parties to provide the Services. Typical categories:</p>
+    <ul>
+      <li><strong>Payment processors & gateways:</strong> e.g., Razorpay, Gokwik, Snapmint — these entities process payments and maintain their own privacy notices. We share payment metadata necessary to process transactions.</li>
+      <li><strong>Fraud & risk vendors:</strong> for risk scoring and chargeback prevention.</li>
+      <li><strong>Analytics & monitoring:</strong> to measure performance and errors.</li>
+      <li><strong>Legal or compliance recipients:</strong> where required by law or court order.</li>
+    </ul>
+    <p class="note">We do not sell personal data. If your jurisdiction defines "sale" differently and you believe this applies, contact us to exercise your rights.</p>
+
+    <h2>6. Cookies & Tracking</h2>
+    <p>We use cookies, local storage, and similar technologies to support the checkout flow, maintain sessions, remember preferences, and collect analytics. You can control cookie preferences through your browser; however, disabling certain cookies may degrade the checkout experience.</p>
+
+    <h2>7. Data Retention</h2>
+    <p>We retain personal data no longer than necessary to provide the Services and meet legal obligations. Typical retention windows: transactional records (up to 7 years where required for accounting/tax), logs and analytics (12–24 months), and until disputes are resolved.</p>
+
+    <h2>8. Security</h2>
+    <p>We implement industry-standard technical and organizational measures to protect data (encryption in transit, access controls, logging, vulnerability management). However, no system is 100% secure. If a breach occurs, we will notify affected parties and authorities as required by law.</p>
+
+    <h2>9. Your Rights</h2>
+    <p>Subject to local law, you may have rights to access, correct, delete, or port your personal data, as well as to restrict processing or object to certain uses. Merchants should use their admin controls; end customers should contact the merchant first. We will cooperate to fulfill lawful requests.</p>
+
+    <h2>10. International Transfers</h2>
+    <p>We and our service providers may transfer data across borders (including to jurisdictions with different data protection laws) to provide the Services. We use contractual safeguards and other measures required by applicable law.</p>
+
+    <h2>11. Children</h2>
+    <p>Our Services are not directed at children under 16. We do not knowingly collect personal data from minors.</p>
+
+    <h2>12. Changes to This Policy</h2>
+    <p>We may update this policy intermittently. We will post the revised policy on this page with an updated "Last updated" date. Material changes will be communicated via the merchant dashboard or email where feasible.</p>
+
+    <h2>13. Contact</h2>
+    <p>If you have questions, privacy requests, or concerns, contact us:</p>
+    <p><strong>KartmaX</strong><br/>
+       Email: <a href="mailto:support@kartmax.com">support@kartmax.com</a></p>
+
+    <footer>© KartmaX. All rights reserved.</footer>
+  </div>
+</body>
+</html>
